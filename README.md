@@ -5,8 +5,8 @@ Interactive e-commerce sales analytics dashboard built with Microsoft Power BI u
 The project focuses on analyzing sales performance, profitability, order volume, sales trends, and category performance through an interactive dashboard.
 
 ## Dashboard Preview
+<img width="6150" height="3525" alt="Superstore_Sales_Analytics_Dashboard" src="https://github.com/user-attachments/assets/8f0cd8bd-c02c-459c-9afe-fa7e03ba2030" />
 
-![E-Commerce Sales Analytics Dashboard](images/dashboard-preview.png)
 
 ## Business Questions
 
